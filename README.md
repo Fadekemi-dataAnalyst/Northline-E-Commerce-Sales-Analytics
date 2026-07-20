@@ -1,4 +1,4 @@
-# Northline-E-Commerce-Sales-Analytics
+# Northline E-Commerce Sales Analytics
 
 This project demonstrates how SQL can be used to analyze e-commerce data and generate actionable business insights.
 
